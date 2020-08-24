@@ -1,0 +1,199 @@
+body {
+    font-family: Arial,Helvetica,'sans-serif';
+}
+.frist {
+    background-color: #4A4771;
+    height: 310px;
+    padding: 60px 0px 30px 0px;
+}
+h1 {
+    color: #fff;
+}
+.text1 {
+    color: #9e9bcb;
+    border-left:1px solid grey;
+    padding-left: 23px;
+}
+.getstart {
+    background-color: #00BC8A;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin: 20px;
+    padding: 9px 20px;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    letter-spacing: 2px;
+    outline: none;
+}
+.getstart:hover {
+    box-shadow: 0px 1px 5px 1px black;
+    transition: 0.3s ease-out;
+}
+/*...........................................................................*/
+.sec {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    transition: all 0.6s ease;
+}
+h2 {
+    color: #4a4949;
+}
+.learnmore {
+    background-color: transparent;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid gray;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    padding: 9px 20px;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    letter-spacing: 2px;
+    outline: none;
+}
+.learnmore:hover {
+    box-shadow: 1px 1px 5px 1px grey;
+    transition: 0.3s ease-out;
+}
+.text2 {
+    border-left: 1px solid grey;
+    padding-left: 23px;
+    padding-top: 5px
+}
+.mk{
+    margin-bottom:1px
+}
+span {
+    color: #00BC8A;
+    font-weight: 800;
+    font-size:19px;
+    padding-right:13px;
+}
+/*...........................................................................*/
+.third {
+    background-color: #f8f8f8;
+    border-top: 1px solid grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    transition: all 0.6s ease;
+}
+.card {
+    background-color: white
+}
+img {
+    width: 380px;
+    height: 290px;
+    transition:0.3s ease;
+}
+h3 {
+    padding-top: 59px;
+    color: #4a4949;
+    font:normal bold 20px/2px arial;
+    margin-bottom:42px
+}
+.text3{
+    padding:10px
+}
+.tx{
+    width:600px;
+    line-height:40px
+}
+.details {
+    background-color: transparent;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    padding: 9px 20px;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    letter-spacing: 2px;
+    outline: none;
+}
+.details:hover {
+    box-shadow: 1px 1px 5px 1px grey;
+    transition: 0.3s ease-out;
+}
+.more {
+    background-color: transparent;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    padding: 9px 20px;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    letter-spacing: 2px;
+    outline: none;
+    margin:50px auto 0;
+}
+.more:hover {
+    box-shadow: 1px 1px 5px 1px grey;
+    transition: 0.3s ease-out;
+}
+/*........................................................................*/
+.four{
+    border-right:1px solid grey;
+
+}
+.name {
+    margin: 15px 20px 20px 0px;
+    padding: 10px;
+    outline-color: #17a2b8
+}
+textarea {
+    margin: 0px 20px 0px 0px;
+    width: 461px;
+    height: 159px;
+    padding: 10px;
+    outline-color: #17a2b8
+}
+.sendmessage {
+    background-color: transparent;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 9px 20px;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    letter-spacing: 2px;
+    outline: none;
+}
+.sendmessage:hover{
+    box-shadow:1px 1px 5px 1px grey;
+    transition:0.3s ease-out;
+}
+.myacct {
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #5a5a5a;
+    cursor: pointer
+}
+.myacct:hover{
+    text-shadow:0px 5px 10px grey;
+    transition:0.3s ease-out;
+}
+i {
+    color: #00BC8A;
+    padding-left: 10px;
+    cursor:pointer
+}
+i:hover{
+    text-shadow:0px 5px 10px grey;
+    transition:0.3s ease-out;
+}
+.last {
+    background-color: #f8f8f8;
+    border-top: 1px solid grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align:center
+}
